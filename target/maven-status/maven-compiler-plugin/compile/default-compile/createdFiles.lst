@@ -1,0 +1,12 @@
+assignment/cic/controller/CicController.class
+assignment/cic/entities/Cic.class
+assignment/cic/service/impl/EntitiesServiceImpl.class
+assignment/cic/service/EntitiesService.class
+assignment/cic/repository/EntitiesRepository.class
+assignment/cic/entities/Entities.class
+assignment/cic/controller/EntitiesController.class
+assignment/cic/repository/CicRepository.class
+assignment/cic/service/CicService.class
+assignment/cic/controller/IndexController.class
+assignment/cic/CicApplication.class
+assignment/cic/service/impl/CicServiceImpl.class

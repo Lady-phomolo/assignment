@@ -1,0 +1,12 @@
+/home/phomolo/NetBeansProjects/Assignment/src/main/java/assignment/cic/service/CicService.java
+/home/phomolo/NetBeansProjects/Assignment/src/main/java/assignment/cic/repository/CicRepository.java
+/home/phomolo/NetBeansProjects/Assignment/src/main/java/assignment/cic/entities/Cic.java
+/home/phomolo/NetBeansProjects/Assignment/src/main/java/assignment/cic/controller/CicController.java
+/home/phomolo/NetBeansProjects/Assignment/src/main/java/assignment/cic/entities/Entities.java
+/home/phomolo/NetBeansProjects/Assignment/src/main/java/assignment/cic/service/impl/EntitiesServiceImpl.java
+/home/phomolo/NetBeansProjects/Assignment/src/main/java/assignment/cic/service/EntitiesService.java
+/home/phomolo/NetBeansProjects/Assignment/src/main/java/assignment/cic/repository/EntitiesRepository.java
+/home/phomolo/NetBeansProjects/Assignment/src/main/java/assignment/cic/controller/EntitiesController.java
+/home/phomolo/NetBeansProjects/Assignment/src/main/java/assignment/cic/service/impl/CicServiceImpl.java
+/home/phomolo/NetBeansProjects/Assignment/src/main/java/assignment/cic/controller/IndexController.java
+/home/phomolo/NetBeansProjects/Assignment/src/main/java/assignment/cic/CicApplication.java
